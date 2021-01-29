@@ -1,0 +1,49 @@
+
+
+package students;
+
+/**
+ *This class +++Insert Description Here+++
+ *
+ * @author Yan Zhang
+ */
+public class Students {
+
+    /**
+     * @param args the command line arguments
+     */
+    //public static void main(String[] args) {
+//       int[] studentMarks = new int[5];
+//        studentMarks[0] = 98;
+//        studentMarks[1] = 98;
+//        studentMarks[2] = 98;
+//        studentMarks[3] = 98;
+//        studentMarks[4] = 98;
+//        
+//       
+//        for (int i=0; i<studentMarks.length; i++){
+//            System.out.print(studentMarks[i]);
+//        } 
+//        char[] sName= {'r','o','i','u','j'}; 
+//        for (int i=0; i<sName.length; i++){
+//            System.out.print(sName[i]);
+//        } 
+//          
+//        System.out.println("The name in reverse order");
+//        for (int i=sName.length-1; i>=0; i--){
+//            System.out.print(sName[i]);
+//        }
+    private String name;
+    
+        
+        
+   // }
+
+    public String getName() {
+        return name;
+    }
+
+    public void setName(String name) {
+        this.name = name;
+    }
+}
