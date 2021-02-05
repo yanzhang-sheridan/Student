@@ -4,8 +4,9 @@ package students;
 
 /**
  *This class +++Insert Description Here+++
- *for pull -- command added
- * this command was added on 5th Feb for revise week2 concepts 
+ *for pull -- comment added
+ * this comment was added on 5th Feb for revise week2 concepts 
+ * this comments was added from github on Feb 5th 9:42 am for fetch and merge
  * @author Yan Zhang
  */
 public class Students {
