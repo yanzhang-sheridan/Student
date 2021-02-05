@@ -6,6 +6,9 @@ package students;
  *This class +++Insert Description here+++
  *
  * @author Yan Zhang
+ * 
+ * for pull -- command added
+ * this command was added on 5th Feb for revise week2 concepts 
  */
 public class StudentList {
     
