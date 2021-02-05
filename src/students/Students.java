@@ -7,6 +7,7 @@ package students;
  *for pull -- comment added
  * this comment was added on 5th Feb for revise week2 concepts 
  * this comments was added from github on Feb 5th 9:42 am for fetch and merge
+ * this comments is to check pull
  * @author Yan Zhang
  */
 public class Students {
